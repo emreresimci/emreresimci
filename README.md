@@ -3,7 +3,7 @@
 <h3 align="center">🌐 Teknoloji Dünyasına Hoş Geldiniz! 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Sistem+Destek+Uzmanı;IT+Support+Specialist;IT+Infrastructure;Systems+%26+Networking;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Sistem+Destek+Uzmani;IT+Support+Specialist;IT+Infrastructure;Systems+%26+Networking;Always+Learning+New+Things" />
 </p>
 
 <h3 align="center">Sistem Destek Uzmanı</h3>
