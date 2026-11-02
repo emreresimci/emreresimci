@@ -80,7 +80,7 @@
   I aim to continuously improve my knowledge and skills
   in IT infrastructure, systems and networking technologies.
   <br><br>
-  Özellikle Microsoft 365, Active Directory, Exchange Server,
+  Microsoft 365, Active Directory, Exchange Server,
   Microsoft Entra ID, Windows Server ve kurumsal ağ altyapıları
   üzerine yoğunlaşmak istiyorum.
   <br><br>
