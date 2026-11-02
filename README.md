@@ -59,7 +59,7 @@
   BT altyapısı, sistem ve ağ teknolojileri alanlarında
   kendimi sürekli geliştirmeyi hedefliyorum.
   <br>
-  Özellikle Microsoft 365, Active Directory,
+  Microsoft 365, Active Directory,
   Exchange Server, Microsoft Entra ID,
   Windows Server ve ağ yönetimi teknolojilerine
   odaklanıyorum.
